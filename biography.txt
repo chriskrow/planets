@@ -1,2 +1,3 @@
 Hi, im Chris. This is my bio.
 I'm human. THat's it!
+This is the line I am adding to test out my suhweet new git skills
